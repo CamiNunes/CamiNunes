@@ -1,5 +1,4 @@
-<h1 align="center">Camila Nunes</h1>
-
+<h1 align="center">Camila Nunes 🎧 </h1>
 
 ### Github Stats
 
